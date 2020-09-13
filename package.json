@@ -12,7 +12,7 @@
     "child-process-promise": "^2.2.1",
     "config": "1.27.0",
     "express": "^4.12.3",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "swagger-express-mw": "^0.1.0"
   },
   "devDependencies": {
